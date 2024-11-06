@@ -1,0 +1,6 @@
+.cache
+build
+database
+node_modules
+*.md
+**/documentation/**
